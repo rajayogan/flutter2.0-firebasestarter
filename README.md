@@ -1,16 +1,18 @@
-# flutterfbauth
+# Firebase Starter
 
-A new Flutter project.
+Flutter + Firebase starter kit.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/2sGNjF1HpyA
 
-A few resources to get you started if this is your first Flutter project:
+Design credit - https://dribbble.com/shots/5239966-Daily-UI-001/attachments/5239966-Daily-UI-001?mode=media
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To use this. Create a new firebase app. Register your flutter app and place google-services.json inside android/app.
+To use facebookAuth - Create a new app on facebook developer sdk, place the appId and secret inside android/app/src/main/res/values/strings.xml
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(Please see the video for more clarity)
+
+## Screenshots
+![Screenshot_20210311-222111](https://user-images.githubusercontent.com/8137504/110826707-5adf2200-82bb-11eb-9ce6-5c88cb25f0de.png)
+![Screenshot_20210311-222120](https://user-images.githubusercontent.com/8137504/110826717-5c104f00-82bb-11eb-90b7-91cf5d44627e.png)
